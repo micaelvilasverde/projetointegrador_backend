@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nDgWpNkCIaAR0kuWd2TS5KonZapjkZHDFND4EtSv6+U=",
+  "Source": "CosmeticosAPI",
+  "BasePath": "_content/CosmeticosAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
